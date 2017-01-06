@@ -52,7 +52,7 @@ Goal of this group is to ultimately get projects finished and published
 - Get to know each other 
 - Become Familiar with GitHub
 
-**Links to Resources** to resources discussed in meeting:
+**Links to Resources** discussed in meeting:
 - **R**/**RStudio**: https://www.rstudio.com/
 - **Python**: https://www.python.org/
 - **Inertia7**: http://www.inertia7.com/

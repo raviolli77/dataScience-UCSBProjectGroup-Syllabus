@@ -9,7 +9,7 @@ This repository serves as an itinerary for the Project Groups for Winter Quarter
 - [Jason Freeberg](https://www.linkedin.com/in/jfreeberg) -> freeberg [at] umail.ucsb.edu
 
 ### Lesson Plan 
-**Week 2**: Introductions
+#### **Week 2**: Introductions
 - Who are you?
 	- Name 
 	- Major 
@@ -61,7 +61,7 @@ Goal of this group is to ultimately get projects finished and published
 - **Slack**: https://slack.com/
 - **DataCamp**: https://www.datacamp.com/
  
-**Week 3**: Why a **Data Science Project**?
+#### **Week 3**: Why a **Data Science Project**?
 
 - What is a **Data Science Project**?
 
@@ -113,7 +113,7 @@ For this section, we can be lenient as to when this gets done. For more advanced
 				- Google Maps
 				- Saint Louis Federal Reserve
 				- Google Analytics
-	- If not, then select a project from the suggested list or talk to me for project ideas 
+If not, then select a project from the suggested list or talk to me for project ideas 
 	
 **Links to Resources** to resources discussed in meeting:
 

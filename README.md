@@ -83,15 +83,16 @@ Goal of this group is to ultimately get projects finished and published
 			
 If you don't think you can do a project on your own right of the bat. Try doing a project from **Inertia7**!
 
-	- [Scrape a Webpage - Python](www.inertia7.com/projects/scrape-webpage-python)
-	- [Iris Flower Classification](http://www.inertia7.com/projects/iris-classification-r)
-	- [Modeling Home Prices](http://www.inertia7.com/projects/regression-boston-housing-r)
-	- [Forecasting the Stock Market](http://www.inertia7.com/projects/time-series-stock-market-r)
-	- [Sentiment Analysis on Twitter](http://www.inertia7.com/projects/sentiment-analysis-clinton-trump-2016)
+- [Scrape a Webpage - Python](www.inertia7.com/projects/scrape-webpage-python)
+- [Iris Flower Classification](http://www.inertia7.com/projects/iris-classification-r)
+- [Modeling Home Prices](http://www.inertia7.com/projects/regression-boston-housing-r)
+- [Forecasting the Stock Market](http://www.inertia7.com/projects/time-series-stock-market-r)
+- [Sentiment Analysis on Twitter](http://www.inertia7.com/projects/sentiment-analysis-clinton-trump-2016)
+
 Here are some of my own repos where I have projects that aren't published on **Inertia7**:
-	- https://github.com/raviolli77/pythonTutorialsVinceLa
-	- https://github.com/raviolli77/machineLearning_Flags_Python
-	- https://github.com/raviolli77/classification_iris
+- https://github.com/raviolli77/pythonTutorialsVinceLa
+- https://github.com/raviolli77/machineLearning_Flags_Python
+- https://github.com/raviolli77/classification_iris
 
 - Discuss what their project can look like given the structure of what they just hacked
 	- Fill in the **Steps of a Data Science Project**

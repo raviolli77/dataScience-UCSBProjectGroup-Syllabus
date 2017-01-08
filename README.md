@@ -82,6 +82,7 @@ Goal of this group is to ultimately get projects finished and published
 			- Jupyter/RMarkdown Notebook  
 			
 If you don't think you can do a project on your own right of the bat. Try doing a project from **Inertia7**!
+
 	- [Scrape a Webpage - Python](www.inertia7.com/projects/scrape-webpage-python)
 	- [Iris Flower Classification](http://www.inertia7.com/projects/iris-classification-r)
 	- [Modeling Home Prices](http://www.inertia7.com/projects/regression-boston-housing-r)
@@ -112,7 +113,9 @@ For this section, we can be lenient as to when this gets done. For more advanced
 				- Saint Louis Federal Reserve
 				- Google Analytics
 	- If not, then select a project from the suggested list or talk to me for project ideas 
+	
 **Links to Resources** to resources discussed in meeting:
+
 - **R**/**RStudio**: https://www.rstudio.com/
 - **Python**: https://www.python.org/
 - **Inertia7**: http://www.inertia7.com/

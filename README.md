@@ -22,6 +22,7 @@ This repository serves as an itinerary for the Project Groups for Winter Quarter
 	- What project(s) are you working on today?
 	- What recent failure have you had?
 	- Strengths & weaknesses as it relates to data science or in general?
+	
 **Storm**
 Goal of this group is to ultimately get projects finished and published
 - **WHY**
@@ -113,6 +114,7 @@ For this section, we can be lenient as to when this gets done. For more advanced
 				- Google Maps
 				- Saint Louis Federal Reserve
 				- Google Analytics
+				
 If not, then select a project from the suggested list or talk to me for project ideas 
 	
 **Links to Resources** to resources discussed in meeting:

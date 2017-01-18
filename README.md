@@ -7,6 +7,7 @@ This repository serves as an itinerary for the Project Groups for Winter Quarter
 - [Raul Eulogio](https://www.linkedin.com/in/raul-eulogio-217069123) -> rauleulogio3 [at] gmail.com
 - [David Campos](https://www.linkedin.com/in/dcamposliz) - 
 - [Jason Freeberg](https://www.linkedin.com/in/jfreeberg) -> freeberg [at] umail.ucsb.edu
+- [Nathan Fritter](https://www.linkedin.com/in/nathan-fritter) 
 
 ### Lesson Plan 
 #### **Week 2**: Introductions

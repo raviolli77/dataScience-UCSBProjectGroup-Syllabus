@@ -1,5 +1,5 @@
 # Winter Quarter Project Group - Data Science at UCSB
-### Contributors: Raul Eulogio, David A. Campos, Jason Freeberg
+### Contributors: Raul Eulogio, David A. Campos, Jason Freeberg, Nathan Fritter
 
 This repository serves as an itinerary for the Project Groups for Winter Quarter for the **DataScience at UCSB** organization. Providing a weekly overview as well as resources used within the weekly meetings.    
 

@@ -11,6 +11,11 @@ This repository serves as an itinerary for the Project Groups for Winter Quarter
 
 ### Lesson Plan 
 #### **Week 2**: Introductions
+
+First Things First find our resources:
+Slack Account: Domain: dsprojectgroup.slack.com
+
+
 - Who are you?
 	- Name 
 	- Major 

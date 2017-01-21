@@ -5,13 +5,12 @@ This repository serves as an itinerary for the Project Groups for Winter Quarter
 
 **Assistants**:
 - [Raul Eulogio](https://www.linkedin.com/in/raul-eulogio-217069123) -> rauleulogio3 [at] gmail.com
-- [David Campos](https://www.linkedin.com/in/dcamposliz) - 
+- [David Campos](https://www.linkedin.com/in/dcamposliz) -> dcampos.liz [at] gmail.com
 - [Jason Freeberg](https://www.linkedin.com/in/jfreeberg) -> freeberg [at] umail.ucsb.edu
-- [Nathan Fritter](https://www.linkedin.com/in/nathan-fritter) 
+- [Nathan Fritter](https://www.linkedin.com/in/nathan-fritter) -> nathan.fritter [at] gmail.com 
 
 ### Lesson Plan 
-#### **Week 2**: Introductions
-
+**Week 2**: Introductions
 - Who are you?
 	- Name 
 	- Major 
@@ -24,7 +23,6 @@ This repository serves as an itinerary for the Project Groups for Winter Quarter
 	- What project(s) are you working on today?
 	- What recent failure have you had?
 	- Strengths & weaknesses as it relates to data science or in general?
-	
 **Storm**
 Goal of this group is to ultimately get projects finished and published
 - **WHY**
@@ -32,8 +30,7 @@ Goal of this group is to ultimately get projects finished and published
 -  Brainstorm on data science ideas
 	- Write them on a piece of paper
 	- Go to the front of the group and present it
-	- Post your idea on the board
-	- Vote for your favorite project with a sticky note  
+	- Have people walk up to you/you walk up to people, persuade people to be in your group 
 
 **Collide**:
 - Form teams
@@ -64,9 +61,26 @@ Goal of this group is to ultimately get projects finished and published
 - **Slack**: https://slack.com/
 - **DataCamp**: https://www.datacamp.com/
  
-#### **Week 3**: Why a **Data Science Project**?
+**Week 3**: Why a **Data Science Project**?
 
-- What is a **Data Science Project**?
+**Some preliminaries**
+- Does everyone in your team have:
+	- **Slack** account/channel within the `dsprojectgroup` **Slack**? 
+	- **GitHub** account
+	- **R**, **Python**, **SQL** set up on their machine? (Whatever y'all plan on using)
+
+**Team Resources**
+	- Introduce the concepts of **Stand Ups**
+		- Structure of an effective **Stand Up**:
+    		- What did I accomplish last meeting?
+    		- What will I do today?
+    		- What obstacles are impeding my progress?
+ 
+	- Document **everything** in your **Slack** channel
+		- If you used a site to review **R**, **Python**, **html**, etc. post it within your group's channel
+		- Read a cool article relating to your project; document it on **Slack**
+		- This will become important when citing sources, creating documentation for project, and just a good habit to develop since people deserve credit for helping you! 
+ - What is a **Data Science Project**?
 
 - How to do a **Data Science Project**?
 
@@ -83,19 +97,19 @@ Goal of this group is to ultimately get projects finished and published
 			- Inertia7.com
 			- GitHub repo with nice READNE.md
 			- Jupyter/RMarkdown Notebook  
-			
 If you don't think you can do a project on your own right of the bat. Try doing a project from **Inertia7**!
 
-- [Scrape a Webpage - Python](www.inertia7.com/projects/scrape-webpage-python)
-- [Iris Flower Classification](http://www.inertia7.com/projects/iris-classification-r)
-- [Modeling Home Prices](http://www.inertia7.com/projects/regression-boston-housing-r)
-- [Forecasting the Stock Market](http://www.inertia7.com/projects/time-series-stock-market-r)
-- [Sentiment Analysis on Twitter](http://www.inertia7.com/projects/sentiment-analysis-clinton-trump-2016)
-
+	- [Scrape a Webpage - Python](www.inertia7.com/projects/scrape-webpage-python)
+	- [Iris Flower Classification](http://www.inertia7.com/projects/iris-classification-r)
+	- [Modeling Home Prices](http://www.inertia7.com/projects/regression-boston-housing-r)
+	- [Forecasting the Stock Market](http://www.inertia7.com/projects/time-series-stock-market-r)
+	- [Sentiment Analysis on Twitter](http://www.inertia7.com/projects/sentiment-analysis-clinton-trump-2016)
 Here are some of my own repos where I have projects that aren't published on **Inertia7**:
-- https://github.com/raviolli77/pythonTutorialsVinceLa
-- https://github.com/raviolli77/machineLearning_Flags_Python
-- https://github.com/raviolli77/classification_iris
+	- https://github.com/raviolli77/pythonTutorialsVinceLa
+	- https://github.com/raviolli77/machineLearning_Flags_Python
+	- https://github.com/raviolli77/classification_iris
+	- https://github.com/raviolli77/machineLearning_breastCancer_Python
+	- https://github.com/raviolli77/ggplot2_Tutorial_R
 
 - Discuss what their project can look like given the structure of what they just hacked
 	- Fill in the **Steps of a Data Science Project**
@@ -103,6 +117,8 @@ Here are some of my own repos where I have projects that aren't published on **I
 - **Homework**:
 For this section, we can be lenient as to when this gets done. For more advanced groups we expect for you to be able to do this on your own. Now for the newer groups you can wait until the next meeting to have me or other members help with the process.
 	- Build a proposal for your own project
+		- Get comfortable using **Markdown** notation 
+	- Create a repo in the [Data Science Project Groups GitHub Account](https://github.com/UCSB-dataScience-ProjectGroup)
 		- Abstracts
 		- Finish filling the **Steps of a Data Science Project**
 		- Requirements
@@ -116,11 +132,8 @@ For this section, we can be lenient as to when this gets done. For more advanced
 				- Google Maps
 				- Saint Louis Federal Reserve
 				- Google Analytics
-				
-If not, then select a project from the suggested list or talk to me for project ideas 
-	
+		- If not, then select a project from the suggested list or talk to me for project ideas 
 **Links to Resources** to resources discussed in meeting:
-
 - **R**/**RStudio**: https://www.rstudio.com/
 - **Python**: https://www.python.org/
 - **Inertia7**: http://www.inertia7.com/

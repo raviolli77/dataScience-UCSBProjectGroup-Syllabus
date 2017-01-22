@@ -107,11 +107,11 @@ If you don't think you can do a project on your own right of the bat. Try doing 
 	
 	
 Here are some of my own repos where I have projects that aren't published on **Inertia7**:
-	- https://github.com/raviolli77/pythonTutorialsVinceLa
-	- https://github.com/raviolli77/machineLearning_Flags_Python
-	- https://github.com/raviolli77/classification_iris
-	- https://github.com/raviolli77/machineLearning_breastCancer_Python
-	- https://github.com/raviolli77/ggplot2_Tutorial_R
+- https://github.com/raviolli77/pythonTutorialsVinceLa
+- https://github.com/raviolli77/machineLearning_Flags_Python
+- https://github.com/raviolli77/classification_iris
+- https://github.com/raviolli77/machineLearning_breastCancer_Python
+- https://github.com/raviolli77/ggplot2_Tutorial_R
 
 - Discuss what their project can look like given the structure of what they just hacked
 	- Fill in the **Steps of a Data Science Project**

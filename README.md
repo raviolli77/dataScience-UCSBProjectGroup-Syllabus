@@ -70,16 +70,16 @@ Goal of this group is to ultimately get projects finished and published
 	- **R**, **Python**, **SQL** set up on their machine? (Whatever y'all plan on using)
 
 **Team Resources**
-	- Introduce the concepts of **Stand Ups**
-		- Structure of an effective **Stand Up**:
-    		- What did I accomplish last meeting?
-    		- What will I do today?
-    		- What obstacles are impeding my progress?
+- Introduce the concepts of **Stand Ups**
+	- Structure of an effective **Stand Up**:
+		- What did I accomplish last meeting
+		- What will I do today
+    		- What obstacles are impeding my progress
  
-	- Document **everything** in your **Slack** channel
-		- If you used a site to review **R**, **Python**, **html**, etc. post it within your group's channel
-		- Read a cool article relating to your project; document it on **Slack**
-		- This will become important when citing sources, creating documentation for project, and just a good habit to develop since people deserve credit for helping you! 
+- Document **everything** in your **Slack** channel
+	- If you used a site to review **R**, **Python**, **html**, etc. post it within your group's channel
+	- Read a cool article relating to your project; document it on **Slack**
+	- This will become important when citing sources, creating documentation for project, and just a good habit to develop since people deserve credit for helping you! 
  - What is a **Data Science Project**?
 
 - How to do a **Data Science Project**?

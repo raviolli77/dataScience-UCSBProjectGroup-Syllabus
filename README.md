@@ -86,8 +86,8 @@ Goal of this group is to ultimately get projects finished and published
 
 	- Steps of a **Data Science** project:
 		- Getting Data
-			- **UCI Machine Learning Repository**  
-			- **Kaggle** datasets
+			- ex. **UCI Machine Learning Repository**  
+			- ex. **Kaggle** datasets
 		- Cleaning data/sanity checks
 		- Exploratory Analysis
 			- Trends in reponse and predictor variales

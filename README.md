@@ -80,8 +80,6 @@ Goal of this group is to ultimately get projects finished and published
 				-If you can answer this questions then you're fine: Do you know what a virtual environment is? And do you know its use?
 				- If you don't know have your team speak to me after. 
 		- Which interface will your team be using i.e. **Rstudio** or **Jupyter Notebook** for **R** 
-
-**Team Resources**
 - Introduce the concepts of **Stand Ups**
 	- Structure of an effective **Stand Up**:
     	- What did I accomplish last meeting?
@@ -134,28 +132,28 @@ Here are some of my own repos where I have projects that aren't published on **I
 - https://github.com/raviolli77/machineLearning_breastCancer_Python
 - https://github.com/raviolli77/ggplot2_Tutorial_R
 
-- Discuss what their project can look like given the structure of what they just hacked
+Discuss what their project can look like given the structure of what they just hacked
 	- Fill in the **Steps of a Data Science Project**
 
-- **Homework**:
+**Homework**:
 For this section, we can be lenient as to when this gets done. For more advanced groups we expect for you to be able to do this on your own. Now for the newer groups you can wait until the next meeting to have me or other members help with the process.
-	- Build a proposal for your own project
-		- Get comfortable using **Markdown** notation 
-	- Create a repo in the [Data Science Project Groups GitHub Account](https://github.com/UCSB-dataScience-ProjectGroup) including these steps:
-		- Abstracts
-		- Finish filling the **Steps of a Data Science Project**
-		- Data Sources? Examples include, but are not limited to:
-			- Kaggle
-			- UCI
-			- Data sets found in **R**
-			- Quandl
-			- API 
-				- Wikipedia
-				- Twitter
-				- Google Maps
-				- Saint Louis Federal Reserve
-				- Google Analytics
-		- If not, then select a project from the suggested list or talk to me for project ideas 
+- Build a proposal for your own project
+	- Get comfortable using **Markdown** notation 
+- Create a repo in the [Data Science Project Groups GitHub Account](https://github.com/UCSB-dataScience-ProjectGroup) including these steps:
+	- Abstracts
+	- Finish filling the **Steps of a Data Science Project**
+	- Data Sources? Examples include, but are not limited to:
+		- Kaggle
+		- UCI
+		- Data sets found in **R**
+		- Quandl
+		- API calls: 
+			- Wikipedia
+			- Twitter
+			- Google Maps
+			- Saint Louis Federal Reserve
+			- Google Analytics
+	- If not, then select a project from the suggested list or talk to me for project ideas 
 **Links to Resources** to resources discussed in meeting:
 - **R**/**RStudio**: https://www.rstudio.com/
 - **Python**: https://www.python.org/

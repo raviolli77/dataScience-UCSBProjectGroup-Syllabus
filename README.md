@@ -82,23 +82,25 @@ Goal of this group is to ultimately get projects finished and published
 		- Which interface will your team be using i.e. **Rstudio** or **Jupyter Notebook** for **R** 
 
 **Team Resources**
-	- Introduce the concepts of **Stand Ups**
-		- Structure of an effective **Stand Up**:
-    		- What did I accomplish last meeting?
-    		- What will I do today?
-    		- What obstacles are impeding my progress?
+- Introduce the concepts of **Stand Ups**
+	- Structure of an effective **Stand Up**:
+    	- What did I accomplish last meeting?
+    	- What will I do today?
+    	- What obstacles are impeding my progress?
  
-	- Document **everything** in your **Slack** channel
-		- If you used a site to review **R**, **Python**, **html**, etc. post it within your group's channel
-		- Read a cool article relating to your project; document it on **Slack**
-		- This will become important when citing sources, creating documentation for project, and just a good habit to develop since people deserve credit for helping you! 
-	- **Trello**
-		- Nathan will introduce the interface and how to integrate it into your workforce
-		- We might create a markdown file explaining in more detail if people do not understand how to use it right away (but is pretty easy to use).
-		- Resources:
-			- [Trello Tutorial](https://trello.com/b/I7TjiplA/trello-tutorial)
-			- [Trello Youtube Tutorial](www.youtube.com/watch?v=7najSDZcn-U) 	
- - What is a **Data Science Project**?
+- Document **everything** in your **Slack** channel
+	- If you used a site to review **R**, **Python**, **html**, etc. post it within your group's channel
+	- Read a cool article relating to your project; document it on **Slack**
+	- This will become important when citing sources, creating documentation for project, and just a good habit to develop since people deserve credit for helping you! 
+
+- **Trello**
+	- Nathan will introduce the interface and how to integrate it into your workforce
+	- We might create a markdown file explaining in more detail if people do not understand how to use it right away (but is pretty easy to use).
+	- Resources:
+		- [Trello Tutorial](https://trello.com/b/I7TjiplA/trello-tutorial)
+		- [Trello Youtube Tutorial](www.youtube.com/watch?v=7najSDZcn-U) 	
+ 
+ ### What is a **Data Science Project**?
 
 - How to do a **Data Science Project**?
 
@@ -122,11 +124,13 @@ If you don't think you can do a project on your own right of the bat. Try doing 
 	- [Modeling Home Prices](http://www.inertia7.com/projects/regression-boston-housing-r)
 	- [Forecasting the Stock Market](http://www.inertia7.com/projects/time-series-stock-market-r)
 	- [Sentiment Analysis on Twitter](http://www.inertia7.com/projects/sentiment-analysis-clinton-trump-2016)
+
+
 Here are some of my own repos where I have projects that aren't published on **Inertia7**:
 	- https://github.com/raviolli77/pythonTutorialsVinceLa
-	- https://github.com/raviolli77/machineLearning_Flags_Python
-	- https://github.com/raviolli77/classification_iris
-	- https://github.com/raviolli77/machineLearning_breastCancer_Python
+	- htts://github.com/raviolli77/machineLearning_Flags_Python
+	- htts://github.com/raviolli77/classification_iris
+	- htts://github.com/raviolli77/machineLearning_breastCancer_Python
 	- https://github.com/raviolli77/ggplot2_Tutorial_R
 
 - Discuss what their project can look like given the structure of what they just hacked
@@ -170,10 +174,11 @@ For this section, we can be lenient as to when this gets done. For more advanced
 
 ## **Week 4**: Project Iteration/GitHub
 **Some Preliminaries**:
+
 - Has your team created a **GitHub** Repo for your project within the organizational **GitHub** (Source: https://github.com/UCSB-dataScience-ProjectGroup)?
-		- Does it have a **ReadMe** explaining the Steps of a **Data Science** Project?
-		- Did you all agree which versions/interface for the language you will be using? 
-		- Did you reach a conclusion of what models/approach you will take?
+	- Does it have a **ReadMe** explaining the Steps of a **Data Science** Project?
+	- Did you all agree which versions/interface for the language you will be using? 
+	- Did you reach a conclusion of what models/approach you will take?
 
 **Team Resources**
 - Has your team...
@@ -193,7 +198,7 @@ Tbc..
 	- [Python Documentation](https://docs.python.org/3/) (For more advanced users, the documentation for the programming language are clutch resources)
 	- [Yhat](https://www.yhat.com/) (Great resource for machine learning application with **Python**)
 - **R** Resources:
-	- [R-bloggers](https://www.r-bloggers.com/)
+	- [R-bloggers](https://www.r-bloggers.com/) (Great place to see people contributing projects and tutorials by real **R** users)
 	- [ggplot2 Cheat Sheet](https://www.rstudio.com/wp-content/uploads/2015/03/ggplot2-cheatsheet.pdf) (For visualizations)
 	- [Quick-R](http://www.statmethods.net/)
 	- [R for Data Science](http://r4ds.had.co.nz/index.html) (Learn from some of the **R** greats including Hadley Wickham, creator of many famous **R** packages)

@@ -72,7 +72,7 @@ Goal of this group is to ultimately get projects finished and published
 
 **Some preliminaries**
 - Does everyone in your team have:
-	- **Slack** account/channel within the `dsprojectgroup` **Slack**? 
+	- **Slack** account/channel within the *dsprojectgroup* **Slack**? 
 	- **GitHub** account?
 	- **R**, **Python**, **SQL** set up on their machine? (Whatever y'all plan on using)
 		- Speak about versions for language and packages/modules. Especially in **Python**:

@@ -11,7 +11,7 @@ This repository serves as an itinerary for the Project Groups for Winter Quarter
 	- Personal Site: http://davidacampos.com/
 - [Jason Freeberg](https://www.linkedin.com/in/jfreeberg) -> freeberg [at] umail.ucsb.edu
 	- GitHub: https://github.com/JasonFreeberg
-	- Personal Site: JasonFreeberg.github.io
+	- Personal Site: https://jasonfreeberg.github.io/
 - [Nathan Fritter](https://www.linkedin.com/in/nathan-fritter) -> nathan.fritter [at] gmail.com 
 	- GitHub: https://github.com/Njfritter
 

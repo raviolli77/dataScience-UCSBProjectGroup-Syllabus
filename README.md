@@ -84,7 +84,7 @@ Goal of this group is to ultimately get projects finished and published
 	- Structure of an effective **Stand Up**:
     	- What did I accomplish last meeting?
     	- What will I do today?
-    	- What obstacles are impeding my progress?
+    	- What obstacles are impeding my progress? (Blockers)
  
 - Document **everything** in your **Slack** channel
 	- If you used a site to review **R**, **Python**, **html**, etc. post it within your group's channel

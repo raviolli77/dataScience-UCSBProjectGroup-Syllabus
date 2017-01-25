@@ -11,7 +11,7 @@ This repository serves as an itinerary for the Project Groups for Winter Quarter
 	- Personal Site: http://davidacampos.com/
 - [Jason Freeberg](https://www.linkedin.com/in/jfreeberg) -> freeberg [at] umail.ucsb.edu
 	- GitHub: https://github.com/JasonFreeberg
-	- Personal Site: https://jasonfreeberg.github.io/
+	- Personal Site: JasonFreeberg.github.io
 - [Nathan Fritter](https://www.linkedin.com/in/nathan-fritter) -> nathan.fritter [at] gmail.com 
 	- GitHub: https://github.com/Njfritter
 
@@ -68,7 +68,7 @@ Goal of this group is to ultimately get projects finished and published
 - **Slack**: https://slack.com/
 - **DataCamp**: https://www.datacamp.com/
  
-## **Week 3**: Why a **Data Science Project**?
+## **Week 3**: Why a do **Data Science Project**?
 
 **Some preliminaries**
 - Does everyone in your team have:
@@ -189,7 +189,7 @@ For this section, we can be lenient as to when this gets done. For more advanced
 Tbc..
 
 
-**Recommended Resources for entire quarter**:
+## **Recommended Resources for entire quarter**:
 
 - **Python** Resources:
 	- [Python for Data Analysis](http://shop.oreilly.com/product/0636920023784.do) (Brush up on **NumPy** and learn **Pandas** from the man who created it!)

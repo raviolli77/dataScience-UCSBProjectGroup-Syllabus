@@ -8,7 +8,7 @@ To put it bluntly we can't let this slide anymore. We hope with this newly forma
  
 Before we go into the technical details of building a Data Science Project, we want you to ask yourself: Why do you want to do a Data Science Project?
 
-People's motives will vary. Answers can range from: *it will look good on my resume*, *I want to be able to brag about something that's attainable by other people online*, *I want to learn beyond what's taught to me in my classess*. 
+People's motives will vary. Answers can range from: '*it will look good on my resume*', '*I want to be able to brag about something that's attainable by other people online*', '*I want to learn beyond what's taught to me in my classess*'. 
 
 Whatever the reason for your attendance in this group, you will realize that you are now connected to a community that aims to enter a newly emerging field in need of highly driven and analytical people with a love for all things data.
 
@@ -86,7 +86,7 @@ WordClouds are a simple and effective way of showcasing words that are often sai
 
 <img src='examples/wordCloud.png'>
 
-From here many other ideas come to mind that don't involve complicated machine learning algorithms
+From here many other ideas come to mind that don't involve complicated machine learning algorithms:
 
 - Bar chart showcasing the amount of dialogue each character has
 - Word Clouds for each main character

@@ -184,7 +184,9 @@ For this section, we can be lenient as to when this gets done. For more advanced
 	- Been in contact through **Slack**?
 	- Been addressing issues in going about your project or any preliminary practice for your project
 	- Been pulling their own weight? Remember to work as a team and address issues of people not contributing equally (Something that can be awkward to address, but necessary)
-**GitHub Crash Course**
+
+## **GitHub Crash Course**
+
 Here we're giving a quick overview of how **GitHub** works. Purpose is to be used as a rudimentary guide for those of you who are new to **GitHub**. We can spend an entire day going over the workflow of **GitHub**, but for now we're concerned with just getting your feet wet, and soon creating a repo for your project if you haven't already. 
 
 **NOTE**: One can spend an entire day learning **git**, so we'll leave that out for this iteration. We will provide resources for this below!
@@ -242,7 +244,7 @@ Say you and your group are in agreement that your **branch** is the version you 
 	+ This is where other teammates will be notified of you wanting to merge your **branch** and the **master branch** 
 	+ If everyone is in agreement you click **Merge pull request**
 	+ Then, click **Confirm merge** and the **master branch** will now have the same contents as **ravi_branch**
-	
+
 That's a quick and rough tutorial to working in **GitHub**. Doesn't go over everything but should give context as to how to work as a team using **GitHub** and **branches**. I have provided sources that go in more detail and definitely explain better so I would suggest reading up on them!
 
 **Links to Resources** to resources discussed in meeting:

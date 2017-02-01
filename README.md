@@ -98,7 +98,7 @@ Goal of this group is to ultimately get projects finished and published
 		- [Trello Tutorial](https://trello.com/b/I7TjiplA/trello-tutorial)
 		- [Trello Youtube Tutorial](www.youtube.com/watch?v=7najSDZcn-U) 	
  
- ### What is a **Data Science Project**?
+## What is a **Data Science Project**?
 
 - How to do a **Data Science Project**?
 
@@ -173,17 +173,21 @@ For this section, we can be lenient as to when this gets done. For more advanced
 
 ## **Week 4**: Project Iteration/GitHub
 **Some Preliminaries**:
+- Are people interested in a **Python Hackathon**?
+	- If so when and where works best
 
 - Has your team created a **GitHub** Repo for your project within the organizational **GitHub** (Source: https://github.com/UCSB-dataScience-ProjectGroup)?
 	- Does it have a **ReadMe** explaining the Steps of a **Data Science** Project?
 	- Did you all agree which versions/interface for the language you will be using? 
 	- Did you reach a conclusion of what models/approach you will take?
+		- If not give us an overview what you plan to do, by the end of this meeting the project should be decided more or less
 
 **Team Resources**
 - Has your team...
 	- Been in contact through **Slack**?
+	- Been doing **Stand Ups**?
 	- Been addressing issues in going about your project or any preliminary practice for your project
-	- Been pulling their own weight? Remember to work as a team and address issues of people not contributing equally (Something that can be awkward to address, but necessary)
+	- Asked for help? 
 
 ## **GitHub Crash Course**
 
@@ -248,6 +252,12 @@ Say you and your group are in agreement that your **branch** is the version you 
 		+ Then, click **Confirm merge** and the **master branch** will now have the same contents as **ravi_branch**
 
 That's a quick and rough tutorial to working in **GitHub**. Doesn't go over everything but should give context as to how to work as a team using **GitHub** and **branches**. I have provided sources that go in more detail and definitely explain better so I would suggest reading up on them!
+
+**Homework**:
++ Will depend on conversations we have on Wednesday to see where your team is at
++ Have a repo within the organizational repo by the end of today!
++ Create **branches** for each teammate
++ Set up a meeting time outside of Wednesday
 
 **Links to Resources** to resources discussed in meeting:
 - **README** Resources:

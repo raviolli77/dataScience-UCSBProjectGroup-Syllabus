@@ -238,6 +238,7 @@ Since you will be working in a team you have to be familiar with **branches**. *
 Say you and your group are in agreement that your **branch** is the version you want on the **master branch**, the next step is creating a **Pull Request**.
 
 (**Pull Request**: Allows people to review any changes made in a project, make modifications before the **master branch** changes, and overall help a team work efficiently) 
+
 	+ Go into the **branch** you want to merge so **ravi_branch**
 	+ Click **New Pull Request**
 		+ Here you will see the two **branches** being compared:the **base** will typically be the **master branch** and the compared file will be **ravi_branch** in our example.

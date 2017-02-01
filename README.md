@@ -184,9 +184,92 @@ For this section, we can be lenient as to when this gets done. For more advanced
 	- Been in contact through **Slack**?
 	- Been addressing issues in going about your project or any preliminary practice for your project
 	- Been pulling their own weight? Remember to work as a team and address issues of people not contributing equally (Something that can be awkward to address, but necessary)
+**GitHub Crash Course**
+Here we're giving a quick overview of how **GitHub** works. Purpose is to be used as a rudimentary guide for those of you who are new to **GitHub**. We can spend an entire day going over the workflow of **GitHub**, but for now we're concerned with just getting your feet wet, and soon creating a repo for your project if you haven't already. 
+
+**NOTE**: One can spend an entire day learning **git**, so we'll leave that out for this iteration. We will provide resources for this below!
+
++ **Step 1:**
+	+ Create a **GitHub** account (Should go without saying, but you'd be surprised.)
++ **Step 2:**
+	+ Create a folder for your project where you will include things like, but not limited to:
+		+ **README** file - This file will be other people's introduction to your project so make it pretty and easy to follow! (in .md format). I use [sublime Text](https://www.sublimetext.com/) to create and edit **README** files (there's a plethora of text editors like **Notepad++**, **atom**, etc. really its all personal preference)
+	 	+ Script files - These files will be in the format of the language you are doing your project on so either an **R** file or **Python** file (in .R or .py or .sql)
+	 	+ Data file(Not sure what the proper name for this is will edit later) - This file is where your data is stored if you are using a static data source typically it can be:
+	 		+ **.csv** file
+	 		+ **.txt** file 
+	 		+ **.JSON** file
+	 		+ **.db** file
+	 	+ Image folder - For organizational purposes we usually create an image folder which is where we store all images produced in the project if we plan on hosting them or making them viewable without having to run/save the code. Inside this folder you will find static image files like:
+	 		+ **.png** files (favorited in producing statistical images)
+	 		+ **.jpeg**
+	 		+ **.gif**
+	 	+ Once you get more acquainted with **GitHub** there will be more files that you will add, but for this example these will do 	
+	+ You should create a *myProject* folder where you keep all your projects. This will help with organization for later on when you'll be doing a shit load of projects and prior when publishing projects!
++ **Step 3**:
+	+  Once you have the folder for your project and all the respective files you wish to include in the repo on the main page of **GitHub**, click the green button that says *New repository*
+	+ Add the Repo name: we usually name our repos as such 
+		+ *statisticalModel_DataSetDescription* ex. 
+			+ *classification_IrisFlowersR*
+			+ *regression_bostonHousingR*
+	+ Add a description: give a brief overview of what your project will be about to help give people context. Ex. 
+		+ *A collection of alternate R markdown templates*
+		+ *Repo for a quick ggplot2 tutorial for Exploratory Analysis using Jupyter Notebook and R script*
+	+ Leave it as public: Make it accessible to everyone
+	+ **Initialize with a README** - ALWAYS **initialize with a README**: this acts as an instructional overview for your project 
+		+ You typically include steps that were required that you can't express in your code (i.e. Creating a plotly account, steps needed if there are multiple scripts in your project)
+		+ A brief overview of your data set and statistical models used in the project
+			+ This will help later on if you plan to publish on inertia7!
+		+ Updates made to your project since its last iteration
+		+ Look at the inertia7 README's for some concrete examples
++ **Step 4**:
+Since you will be working in a team you have to be familiar with **branches**. **Branches** are different versions for the project, so a good way for your group to work on the project without fucking up the **master branch** 
+
+(**Master Branch**: This is the version the world will see and use, so make sure that this **branch** is the best iteration/runs smoothly)
+
+	+ Create a **branch** and call it like **ravi_branch**
+	+ You and each person in your team should have a branch that shows your iteration of the project if you happen to go ahead or test something out you haven't spoken with your teammates yet.
++ **Step 5:**
+Say you and your group are in agreement that your **branch** is the version you want on the **master branch**, the next step is creating a **Pull Request**.
+
+(**Pull Request**: Allows people to review any changes made in a project, make modifications before the **master branch** changes, and overall help a team work efficiently) 
++ Go into the **branch** you want to merge so **ravi_branch**
++ Click **New Pull Request**
+	+ Here you will see the two **branches** being compared:the **base** will typically be the **master branch** and the compared file will be **ravi_branch** in our example.
+	+ Add a description of some of the changes you made!
+	+ **GitHub** will give you an overview of the changes made in files
+	+ Once you have reviewed everything  click **Create pull request**
+	+ This is where other teammates will be notified of you wanting to merge your **branch** and the **master branch** 
+	+ If everyone is in agreement you click **Merge pull request**
+	+ Then, click **Confirm merge** and the **master branch** will now have the same contents as **ravi_branch**
+	
+That's a quick and rough tutorial to working in **GitHub**. Doesn't go over everything but should give context as to how to work as a team using **GitHub** and **branches**. I have provided sources that go in more detail and definitely explain better so I would suggest reading up on them!
 
 **Links to Resources** to resources discussed in meeting:
-Tbc..
+- **README** Resources:
+	- [README wiki](https://en.wikipedia.org/wiki/README)
+	- [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+	- [inertia7 Examples](http://www.inertia7.com/)
+		- [Time Series Analysis README](https://github.com/inertia7/timeSeries_sp500_R/blob/master/README.md)
+		- [Regression Analysis README](https://github.com/inertia7/regression_bostonHousing_R/blob/master/README.md)
+	- [noffle's Art of README article](https://github.com/noffle/art-of-readme)
+	- [More resources about README's](https://github.com/matiassingers/awesome-readme)
+- **GitHub** Resources:
+	- [Hello World Tutorial](https://guides.github.com/activities/hello-world/)
+	- [GitHub Youtube Channel](https://www.youtube.com/githubguides)
+	- [Understanding the GitHub Flow](https://guides.github.com/introduction/flow/)
+	- [Creating and Deleting Branches](https://help.github.com/articles/creating-and-deleting-branches-within-your-repository/)
+- **Git** Resources: 
+	- [Set Up Git Article](https://help.github.com/articles/set-up-git/)
+	[Create a Repo Article](https://help.github.com/articles/create-a-repo/)
+	- [Fork A Repo](https://help.github.com/articles/fork-a-repo/) Not discussed in this meeting but important part of **GitHub** workflow
+	- [Be social](https://help.github.com/articles/be-social/)
+	- [David's Git Repo](https://github.com/dcamposliz/learnGit)
+- **Text Editors** Resources:
+	- [Sublime Text](https://www.sublimetext.com/)
+	- [Notepad++](https://notepad-plus-plus.org/)
+	- [Atom](https://atom.io/)
+	- [vim](http://www.vim.org/download.php)	
 
 
 ## **Recommended Resources for entire quarter**:

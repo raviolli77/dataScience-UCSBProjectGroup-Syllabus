@@ -230,15 +230,13 @@ Here we're giving a quick overview of how **GitHub** works. Purpose is to be use
 + **Step 4**:
 Since you will be working in a team you have to be familiar with **branches**. **Branches** are different versions for the project, so a good way for your group to work on the project without fucking up the **master branch** 
 
-(**Master Branch**: This is the version the world will see and use, so make sure that this **branch** is the best iteration/is deployable)
-
-+ Create a **branch** and call it like **ravi_branch**
-+ You and each person in your team should have a branch that shows your iteration of the project if you happen to go ahead or test something out you haven't spoken with your teammates yet.
++ (**Master Branch**: This is the version the world will see and use, so make sure that this **branch** is the best iteration/is deployable)
+	+ Create a **branch** and call it like **ravi_branch**
+	+ You and each person in your team should have a branch that shows your iteration of the project if you happen to go ahead or test something out you haven't spoken with your teammates yet.
 + **Step 5:**
 Say you and your group are in agreement that your **branch** is the version you want on the **master branch**, the next step is creating a **Pull Request**.
 
-(**Pull Request**: Allows people to review any changes made in a project, make modifications before the **master branch** changes, and overall help a team work efficiently) 
-
++(**Pull Request**: Allows people to review any changes made in a project, make modifications before the **master branch** changes, and overall help a team work efficiently) \
 	+ Go into the **branch** you want to merge so **ravi_branch**
 	+ Click **New Pull Request**
 		+ Here you will see the two **branches** being compared:the **base** will typically be the **master branch** and the compared file will be **ravi_branch** in our example.

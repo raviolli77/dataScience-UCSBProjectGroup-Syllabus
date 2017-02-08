@@ -285,6 +285,36 @@ That's a quick and rough tutorial to working in **GitHub**. Doesn't go over ever
 	- [Atom](https://atom.io/)
 	- [vim](http://www.vim.org/download.php)	
 
+## **Week 5**: Project Iteration
+
+**Some Preliminaries**:
+- **Python Hackathon** (Workshop)
+	- Steps needed to be taken before we can start/set up the **hackathon**:
+		- Install **Python3.X**
+		- Use a *Virtual Environment* for your project if it will be in **Python**
+	- Fill out the google survey sent yesterday night:
+		- We need to gauge date, time, and funds to make sure it will run smoothly
+- Rewards!!!
+	- **HG Data Hackathon**
+		- Date proposition: April 21st from 2pm to 10pm 
+			- Most likely broken into 5-6 teams and pair an HG Data Engineer with the respect teams
+	- Spoke with Jason
+		- Informal presentation of projects with *congratulatory refreshments*
+			- Reward for **Best Data Visualization**
+			- Reward for  **Best insight/best modeling**
+			- Reward for **Best presentation**
+	- Jun Seo can speak of presentation of projects for library staff!
+
+- Major issues to address for today:
+	- Does every team have a *requirement.txt* for their project?
+	- Some README's need more detail (I will go about doing informal interviews today to each group)
+	- By today your team should have what algorithms, methods and **Python** versioning. 
+	- Branches for team members
+Depending on attendance we want today really show us the early iteration of your project so
+- Have a script with modules you will be using 
+- Data set attached to your repo
+- Algorithms you will use
+
 
 ## **Recommended Resources for entire quarter**:
 

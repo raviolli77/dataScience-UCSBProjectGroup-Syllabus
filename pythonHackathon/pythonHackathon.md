@@ -3,7 +3,6 @@
 
 **Contributors**:
 + Raul Eulogio
-+ Nathan Fritter
 
 Necessary to discuss with everyone:
 + Date(s) (Most likely dates since we have a large preference for two dates)

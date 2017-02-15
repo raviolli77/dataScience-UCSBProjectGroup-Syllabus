@@ -328,9 +328,9 @@ Depending on attendance we want today really show us the early iteration of your
 		+ Date proposition: April 21st from 2pm to 10pm 
 			+ Most likely broken into 5-6 teams and pair an HG Data Engineer with the respect teams
 	+ Informal presentation of projects with *congratulatory refreshments* near end of this quarter
-			+ Reward for **Best Data Visualization**
-			+ Reward for  **Best insight/best modeling**
-			+ Reward for **Best presentation**
+		+ Reward for **Best Data Visualization**
+		+ Reward for  **Best insight/best modeling**
+		+ Reward for **Best presentation**
 	+ The informal presentation can be a prep for the presentation to the Library faculty 
 		+ Most likely scheduled at the start of next quarter (Ask Jun-Seo if you have any questions)
 	+ Project will be posted in the newest iteration of **int7x** (inertia7)!

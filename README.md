@@ -294,6 +294,7 @@ That's a quick and rough tutorial to working in **GitHub**. Doesn't go over ever
 		+ Use a *Virtual Environment* for your project if it will be in **Python**
 	+ Fill out the google survey sent yesterday night:
 		+ We need to gauge date, time, and funds to make sure it will run smoothly
+
 + Rewards!!!
 	+ **HG Data Hackathon**
 		+ Date proposition: April 21st from 2pm to 10pm 

@@ -259,31 +259,7 @@ That's a quick and rough tutorial to working in **GitHub**. Doesn't go over ever
 + Create **branches** for each teammate
 + Set up a meeting time outside of Wednesday
 
-**Links to Resources** to resources discussed in meeting:
-+ **README** Resources:
-	+ [README wiki](https://en.wikipedia.org/wiki/README)
-	+ [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-	+ [inertia7 Examples](http://www.inertia7.com/)
-		+ [Time Series Analysis README](https://github.com/inertia7/timeSeries_sp500_R/blob/master/README.md)
-		+ [Regression Analysis README](https://github.com/inertia7/regression_bostonHousing_R/blob/master/README.md)
-	+ [noffle's Art of README article](https://github.com/noffle/art-of-readme)
-	+ [More resources about README's](https://github.com/matiassingers/awesome-readme)
-+ **GitHub** Resources:
-	+ [Hello World Tutorial](https://guides.github.com/activities/hello-world/)
-	+ [GitHub Youtube Channel](https://www.youtube.com/githubguides)
-	+ [Understanding the GitHub Flow](https://guides.github.com/introduction/flow/)
-	+ [Creating and Deleting Branches](https://help.github.com/articles/creating-and-deleting-branches-within-your-repository/)
-+ **Git** Resources: 
-	+ [Set Up Git Article](https://help.github.com/articles/set-up-git/)
-	[Create a Repo Article](https://help.github.com/articles/create-a-repo/)
-	+ [Fork A Repo](https://help.github.com/articles/fork-a-repo/) Not discussed in this meeting but important part of **GitHub** workflow
-	+ [Be social](https://help.github.com/articles/be-social/)
-	+ [David's Git Repo](https://github.com/dcamposliz/learnGit)
-+ **Text Editors** Resources:
-	+ [Sublime Text](https://www.sublimetext.com/)
-	+ [Notepad++](https://notepad-plus-plus.org/)
-	+ [Atom](https://atom.io/)
-	+ [vim](http://www.vim.org/download.php)	
+**Links to Resources** to resources discussed in meeting(**NOTE**(2/14): Moved **GitHub** related resources to *Recommended Resources for entire quarter*):
 
 ## **Week 5**: Project Iteration
 
@@ -348,14 +324,53 @@ Today will be focused mostly on iterating projects.
 
 ## **Recommended Resources for entire quarter**:
 
++ **README** Resources:
+	+ [README wiki](https://en.wikipedia.org/wiki/README)
+	+ [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+	+ [inertia7 Examples](http://www.inertia7.com/)
+		+ [Time Series Analysis README](https://github.com/inertia7/timeSeries_sp500_R/blob/master/README.md)
+		+ [Regression Analysis README](https://github.com/inertia7/regression_bostonHousing_R/blob/master/README.md)
+	+ [noffle's Art of README article](https://github.com/noffle/art-of-readme)
+	+ [More resources about README's](https://github.com/matiassingers/awesome-readme)
++ **GitHub** Resources:
+	+ [Hello World Tutorial](https://guides.github.com/activities/hello-world/)
+	+ [GitHub Youtube Channel](https://www.youtube.com/githubguides)
+	+ [Understanding the GitHub Flow](https://guides.github.com/introduction/flow/)
+	+ [Creating and Deleting Branches](https://help.github.com/articles/creating-and-deleting-branches-within-your-repository/)
++ **Git** Resources: 
+	+ [Set Up Git Article](https://help.github.com/articles/set-up-git/)
+	+ [Create a Repo Article](https://help.github.com/articles/create-a-repo/)
+	+ [Fork A Repo](https://help.github.com/articles/fork-a-repo/) Not discussed in this meeting but important part of **GitHub** workflow
+	+ [Be social](https://help.github.com/articles/be-social/) (Great place to discover cool shit on **GitHub**)
+	+ [David's Git Repo](https://github.com/dcamposliz/learnGit)
++ **Text Editors** Resources:
+	+ [Sublime Text](https://www.sublimetext.com/)
+	+ [Notepad++](https://notepad-plus-plus.org/)
+	+ [Atom](https://atom.io/)
+	+ [vim](http://www.vim.org/download.php)	
+s
 + **Python** Resources:
 	+ [Python for Data Analysis](http://shop.oreilly.com/product/0636920023784.do) (Brush up on **NumPy** and learn **Pandas** from the man who created it!)
 	+ [Vincent La's Personal Website](http://vincela.com/) (Raul's Note: Great place to review/learn **Python** if you're really *rusty*)
 	+ [Python Documentation](https://docs.python.org/3/) (For more advanced users, the documentation for the programming language are clutch resources)
+	+ [Learn Python the Hardway](https://learnpythonthehardway.org/book/) (Haven't gone through it will soon, but dank resource for learning Python) 
 	+ [Yhat](https://www.yhat.com/) (Great resource for machine learning application with **Python**)
+	+ [David's Repo: learnPython](https://github.com/dcamposliz/learnPython) 
+	+ [Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/)
+	+ [Sklearn Docs](http://scikit-learn.org/stable/)
+	+ [Plotly examples in Python](https://plot.ly/python/)
 + **R** Resources:
 	+ [R-bloggers](https://www.r-bloggers.com/) (Great place to see people contributing projects and tutorials by real **R** users)
-	+ [ggplot2 Cheat Sheet](https://www.rstudio.com/wp-content/uploads/2015/03/ggplot2-cheatsheet.pdf) (For visualizations)
+	+ [ggplot2 docs](http://docs.ggplot2.org/current/)
+		+ [ggplot2 Cheat Sheet](https://www.rstudio.com/wp-content/uploads/2015/03/ggplot2-cheatsheet.pdf) (For visualizations)
 	+ [Quick-R](http://www.statmethods.net/)
+	+ [Plotly examples in R](https://plot.ly/r/)
 	+ [R for Data Science](http://r4ds.had.co.nz/index.html) (Learn from some of the **R** greats including Hadley Wickham, creator of many famous **R** packages)
-	+ [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/) (Great book used in many UCSB PSTAT Classes)
+	+ [An Introduction to Statistical Learning with R](http://www-bcf.usc.edu/~gareth/ISL/) (Great book used in many UCSB PSTAT Classes)
+
++ Misc. 
+	+ [Kaggle](https://www.kaggle.com/) (Great resource for all things data science)
+	+ [DataCamp](https://www.datacamp.com/)
+	+ [Analytics Vidhya](https://www.analyticsvidhya.com) (Lot of great tutorials relating to machine learning)
+	+ [Stack Overflow](http://stackoverflow.com/) (Stack overflow is love, Stack Overflow is life)
+	+ [w3schools tutorials](https://www.w3schools.com/) (Great place to learn other important tools like, but not limited too: html, SQL (I used this one a lot), website development)

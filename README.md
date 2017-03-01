@@ -15,9 +15,18 @@ This repository serves as an itinerary for the Project Groups for Winter Quarter
 + [Nathan Fritter](https://www.linkedin.com/in/nathan-fritter) -> nathan.fritter [at] gmail.com 
 	+ GitHub: https://github.com/Njfritter
 
+# Table of Contents
+* [Week 2](#weektwo)
+* [Week 3](#weekthree)
+* [Week 4](#weekfour)
+* [Week 5](#weekfive)
+* [Week 6](#weeksix)
+* [Week 7](#weekseven)
+* [Week 8](#weekeight)
+* [Week 9](#weeknine)
 
 # Lesson Plan 
-##**Week 2**: Introductions
+## <a name='weektwo'></a>Week 2: Introductions
 + Who are you?
 	+ Name 
 	+ Major 
@@ -68,7 +77,7 @@ Goal of this group is to ultimately get projects finished and published
 + **Slack**: https://slack.com/
 + **DataCamp**: https://www.datacamp.com/
  
-## **Week 3**: Why do a **Data Science Project**?
+## <a name='weekthree'></a>Week 3: Why do a **Data Science Project?
 
 **Some preliminaries**
 + Does everyone in your team have:
@@ -171,7 +180,7 @@ For this section, we can be lenient as to when this gets done. For more advanced
 + **Jupyter Notebook**: http://jupyter.org/
 + **R Markdown**: http://rmarkdown.rstudio.com/
 
-## **Week 4**: Project Iteration/GitHub
+## <a name='weekfour'></a>Week 4: Project Iteration/GitHub
 **Some Preliminaries**:
 + Are people interested in a **Python Hackathon**?
 	+ If so when and where works best
@@ -261,7 +270,7 @@ That's a quick and rough tutorial to working in **GitHub**. Doesn't go over ever
 
 **Links to Resources** to resources discussed in meeting(**NOTE**(2/14): Moved **GitHub** related resources to *Recommended Resources for entire quarter*):
 
-## **Week 5**: Project Iteration
+## <a name='weekfive'></a>Week 5: Project Iteration
 
 **Some Preliminaries**:
 + **Python Hackathon** (Workshop)
@@ -292,7 +301,7 @@ Depending on attendance we want today really show us the early iteration of your
 + Data set attached to your repo
 + Algorithms you will use
 
-## **Week 6**: Project Iteration/Blockers
+## <a name='weeksix'></a>Week 6: Project Iteration/Blockers
 
 **Some Preliminaries**:
 + **Python Hackathon** (Workshop)
@@ -322,6 +331,30 @@ Today will play as an important catch up day for many teams since midterm season
 	+ README
 Today will be focused mostly on iterating projects. 
 
+## <a name='weekseven'></a>Week 7: I didn't prep this week
+
+Carry on. Nothing to see here. 
+
+## <a name='weekeight'></a>Week 8: Presentation/Flex Day
+
+For this week I decided we are going to do a surprise project presentation.
+
+**Announcements**:
+Thank you for everyone who participated in the **Python Workshop**
+
+I will need every team to do the following:
++ Update all scripts on their **GitHub** repo in the **ProjectGroupWinter2017**. 
+	+ README.md
+	+ scipt.py
+	+ All appropriate data files (i.e. csv files, txt files, etc.)
+	+ Images (inside images folder) that were produced for this project
++ Be prepared to pitch your idea to me. 
+	+ Sell that shit.
+	+ Why is your project relevant to *Data Science* and the data community as a whole.  
++ (Not 100%) I would like to see some scripts/notebooks being ran during presentation but due to time constraints, we might just only use what's on **GitHub**. 
+
+Each group presentation should be no longer than **15 minutes**
+
 ## **Recommended Resources for entire quarter**:
 
 + **README** Resources:
@@ -348,7 +381,7 @@ Today will be focused mostly on iterating projects.
 	+ [Notepad++](https://notepad-plus-plus.org/)
 	+ [Atom](https://atom.io/)
 	+ [vim](http://www.vim.org/download.php)	
-s
+
 + **Python** Resources:
 	+ [Python for Data Analysis](http://shop.oreilly.com/product/0636920023784.do) (Brush up on **NumPy** and learn **Pandas** from the man who created it!)
 	+ [Vincent La's Personal Website](http://vincela.com/) (Raul's Note: Great place to review/learn **Python** if you're really *rusty*)
@@ -374,3 +407,4 @@ s
 	+ [Analytics Vidhya](https://www.analyticsvidhya.com) (Lot of great tutorials relating to machine learning)
 	+ [Stack Overflow](http://stackoverflow.com/) (Stack overflow is love, Stack Overflow is life)
 	+ [w3schools tutorials](https://www.w3schools.com/) (Great place to learn other important tools like, but not limited too: html, SQL (I used this one a lot), website development)
+

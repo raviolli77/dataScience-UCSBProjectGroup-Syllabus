@@ -342,6 +342,14 @@ For this week I decided we are going to do a surprise project presentation.
 **Announcements**:
 Thank you for everyone who participated in the **Python Workshop**
 
+Let's us know today if you think your team will have something to present for the library staff **next quarter**
+
+**Teams**:
+Start to realistically look at the completion of your project and plan ahead as to what will be completed by next week and what won't. 
+
+I want all teams to have a plan for this week and next week which will show me where you will end up by the start of **dead week**. 
+**MUST BE DONE**: Start created a to-do list that will show the progress you have so far and what will need to be done to be a completed project. We don't want project to be in limbo for too long especially once **Spring Break** starts and we do other shit.
+
 I will need every team to do the following:
 + Update all scripts on their **GitHub** repo in the **ProjectGroupWinter2017**. 
 	+ README.md

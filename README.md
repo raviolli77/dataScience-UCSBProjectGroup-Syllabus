@@ -1,7 +1,28 @@
 # Winter Quarter Project Group - Data Science at UCSB
 ### Contributors: Raul Eulogio, David A. Campos, Jason Freeberg, Nathan Fritter
 
-This repository serves as an itinerary for the Project Groups for Winter Quarter for the **DataScience at UCSB** organization. Providing a weekly overview as well as resources used within the weekly meetings.    
+
+## In Memory of..
+The efforts of this quarter and the work done is dedicated to the memory of: 
+
++ **Fernando Regino** (1993-2013)
++ **Bernardino De Jesus** (1993-2016)
++ **Erik Alonso** (1991-2009)
++ **Jorge Zarate** (1990-2008) 
+
+"*When the lights shut off
+<br>
+And it's my turn to settle down 
+<br>
+My main concern 
+<br>
+Promise that you will sing about me*" - Kendrick Lamar
+
+Thank you to everyone who participated this quarter
+
+## Abstract
+
+This repository serves as an itinerary for the Project Groups for Winter Quarter for the **Data Science at UCSB** organization. Providing a weekly overview as well as resources used within the weekly meetings.    
 
 **Contributors**:
 + [Raul Eulogio](https://www.linkedin.com/in/raul-eulogio-217069123) -> rauleulogio3 [at] gmail.com
@@ -342,14 +363,6 @@ For this week I decided we are going to do a surprise project presentation.
 **Announcements**:
 Thank you for everyone who participated in the **Python Workshop**
 
-Let's us know today if you think your team will have something to present for the library staff **next quarter**
-
-**Teams**:
-Start to realistically look at the completion of your project and plan ahead as to what will be completed by next week and what won't. 
-
-I want all teams to have a plan for this week and next week which will show me where you will end up by the start of **dead week**. 
-**MUST BE DONE**: Start created a to-do list that will show the progress you have so far and what will need to be done to be a completed project. We don't want project to be in limbo for too long especially once **Spring Break** starts and we do other shit.
-
 I will need every team to do the following:
 + Update all scripts on their **GitHub** repo in the **ProjectGroupWinter2017**. 
 	+ README.md
@@ -362,6 +375,94 @@ I will need every team to do the following:
 + (Not 100%) I would like to see some scripts/notebooks being ran during presentation but due to time constraints, we might just only use what's on **GitHub**. 
 
 Each group presentation should be no longer than **15 minutes**
+
+## <a name='weeknine'></a>Week 9: Quarter Wrap-Up
+
+### Final thoughts on quarter
++ Thank You's 
++ Dedications
++ Food for thought for next quarter
+
+**Some Preliminaries**:
+
+### FACTOR PI sale
+<br>
+<img src="https://scontent-sjc2-1.xx.fbcdn.net/v/t1.0-9/17156077_1805330086454660_3745321994563960700_n.jpg?oh=e09aa5c79dfb5640e314c77dd60d58e5&oe=596B932B" width=500px>
+
+Only 1$ a piece! Go show some support to our friends at the **Female Actuarial Association**. Find event link [Here](https://www.facebook.com/events/1615213815453503/)
+
++ Location: **SRB**
++ Date: March 14, 2017 
++ Time: 11AM - 3PM 
+
+### Farmer's Data Talk
+<br>
+<img src="http://datascience.pstat.ucsb.edu/uploads/7/0/7/1/70716011/nikhil-sucks_1_orig.jpg"  width=300px>
+
+The Org. wants a packed house for the **Farmer's Insurance Data Talk** so let's all make it out! Facebook event link [Here](https://www.facebook.com/events/589388027918002/)
+
++ Location: UCen SB Harbor Room
++ Date: March 9, 2017 (So tomorrow) 
++ Time: 6PM - 8PM 
++ Will **NOT BE FOCUSED** on **actuary** based stuff (Will focus on **Natural Language Processing** so highly relevant to our group)
+
+### HG Data Hackathon
+
++ Location: HG Data Offices
++ Time: April 21st
++ More on this later
++ Will most likely work on a tutorial with Calvin during Spring Break to help prep
+
+
+### Chapman Data Fest
+
++ Location: Chapman University 
++ Time: April 21st as well
++ Team of 5 to attend
++ **NOTE**: Json wants the people to attend the **Chapman Data Fest** to be of different class levels (i.e. freshman, sophomore, Junior, Senior and Super Senior)
++ Let me know if you're interested in this event! Link for Event [Here](https://events.chapman.edu/28206)
+
+### Library presentations
+We have confirmed date!
+
++ Location: Same location so here
++ Time: April 26th at 7pm
++ Need y'all to use today to prep and keep track of progress!
+	+ Make **Github** repos pretty 
+	+ Code readable
+	+ Write nice docs 
+	+ Make plots pretty with titles, axis labels, and legends
+    
+Let's really flex for this. Everyone worked hard!
+
+
+We would like your team to use inertia7 to present your projects so this is a good segue for the next section
+
+### inertia7 User Testing
+
+We know dead week and finals are fast approaching but we were wondering if anyone would be interested in User-testing the new iteration of inertia7 to give constructive criticism. 
+
++ Doesn't have to be publishing a project. Can just play with the app
++ If interested to talk to me or David 
++ Follow [Link](https://docs.google.com/forms/d/e/1FAIpQLScX8KK6z3ji6OLKlMZ0GS64dbsAJAGmmQLGbihEd5d3wA8o6g/viewform?c=0&w=1) to apply for credentials
+
+## Wrap-Up
+Things needed by the end of this meeting:
++ Updated Scripts
++ Updated README's
++ Add any appropriate images
++ Create plotly account to publish plotly graphs (if applicable)
++ To-do list detailing what is still needed for your project
++ Keep in contact with partners over break. 
++ If you're bored during break work on the project!
+
+**IMPORTANT TO NOTE**: Since finals is approaching your group needs set this up in their repo since there will be a gap period of 3 weeks. I need to know where your team is at and context of this. You **CAN'T** leave until your team shows me the repo and the outline of what is done and what isn't done.
+
+Three weeks is a long time and if there's no structure as to where your at you will forget/will be hard to pick back up.
+
+For those of you who feel you are ready to iterate on the presentation part of your project talk to me by the end of today's meeting. 
+
+Again thank you for a wonderful quarter and hope to see you all again next quarter!
 
 ## **Recommended Resources for entire quarter**:
 

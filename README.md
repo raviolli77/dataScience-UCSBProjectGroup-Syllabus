@@ -98,7 +98,7 @@ Goal of this group is to ultimately get projects finished and published
 + **Slack**: https://slack.com/
 + **DataCamp**: https://www.datacamp.com/
  
-## <a name='weekthree'></a>Week 3: Why do a **Data Science Project?
+## <a name='weekthree'></a>Week 3: Why do a Data Science Project?
 
 **Some preliminaries**
 + Does everyone in your team have:

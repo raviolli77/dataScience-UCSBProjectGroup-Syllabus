@@ -7,6 +7,7 @@ The efforts of this quarter and the work done is dedicated to the memory of:
 
 + **Fernando Regino** (1993-2013)
 + **Bernardino De Jesus** (1993-2016)
++ **Ivan Garcia Vergara** (1991-2018)
 + **Erik Alonso** (1991-2009)
 + **Jorge Zarate** (1990-2008) 
 
